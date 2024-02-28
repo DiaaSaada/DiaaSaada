@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiaaSaada
 - 👀 I’m interested in Backend Developemnt, Cloud solutions
-- 🌱 I’m currently learning Nest.js
+- 🌱 I’m currently learning DevOps
 
 - 📫 How to reach me ...
 dia.saada[@]gmail.com
